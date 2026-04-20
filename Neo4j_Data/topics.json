@@ -3,120 +3,120 @@
     "id": "T001",
     "title": "Parking Brake and Brake System Indicator (Red)",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_01.svg"
   },
   {
     "id": "T002",
     "title": "Parking Brake and Brake System Indicator (Amber)",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_02.svg"
   },
   {
     "id": "T003",
     "title": "Brake Hold System Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_03.svg"
   },
   {
     "id": "T004",
     "title": "Auto Brake Hold Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_04.svg"
   },
   {
     "id": "T005",
     "title": "Malfunction Indicator Lamp",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_05.svg"
   },
   {
     "id": "T006",
     "title": "12-Volt Battery Charging System Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_06.svg"
   },
   {
     "id": "T007",
     "title": "Gear Position Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_07.svg"
   },
   {
     "id": "T008",
     "title": "Deceleration Paddle Selector Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_08.svg"
   },
   {
     "id": "T009",
     "title": "Transmission System Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_09.svg"
   },
   {
     "id": "T010",
     "title": "POWER SYSTEM Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_10.svg"
   },
   {
     "id": "T011",
     "title": "READY Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_11.svg"
   },
   {
     "id": "T012",
     "title": "EV Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_12.svg"
   },
   {
     "id": "T013",
     "title": "Seat Belt Reminder Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_13.svg"
   },
   {
     "id": "T014",
     "title": "Low Fuel Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_14.svg"
   },
   {
     "id": "T015",
     "title": "Anti-lock Braking System (ABS) Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_15.svg"
   },
   {
     "id": "T016",
     "title": "Supplemental Restraint System Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_16.svg"
   },
   {
     "id": "T017",
     "title": "Electric Power Steering (EPS) Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_17.svg"
   },
   {
     "id": "T018",
     "title": "Vehicle Stability Assist (VSA) System Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_18.svg"
   },
   {
     "id": "T019",
     "title": "VSA OFF Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_19.svg"
   },
   {
     "id": "T020",
     "title": "Low Tire Pressure / TPMS Indicator",
     "category": "indicator",
-    "images": []
+    "images": "https://github.com/ElisaGuerra/AgenticAICarAssist/blob/main/src/Indicator_20.svg"
   }
 ]
