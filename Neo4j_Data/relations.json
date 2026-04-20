@@ -1,0 +1,98 @@
+[
+    { "parent": "T001", "child": "Q001"  },
+    { "parent": "Q001", "child": "A001" },
+    { "parent": "Q001", "child": "A002" },
+    { "parent": "Q001", "child": "A003" },
+
+    { "parent": "T001", "child": "Q002" },
+    { "parent": "Q002", "child": "S001" },
+
+    { "parent": "A002", "child": "Q021" },
+    { "parent": "Q021", "child": "S022" },
+
+    { "parent": "T002", "child": "Q003" },
+    { "parent": "Q003", "child": "A004" },
+
+    { "parent": "T003", "child": "Q004" },
+    { "parent": "Q004", "child": "A005" },
+
+    { "parent": "A003", "child": "Q021" },
+    { "parent": "Q021", "child": "A022" },
+    { "parent": "Q021", "child": "S022" },
+
+    { "parent": "A003", "child": "Q022" },
+    { "parent": "Q022", "child": "A023" },
+    { "parent": "Q022", "child": "S023" },
+
+    { "parent": "A003", "child": "Q023" },
+    { "parent": "Q023", "child": "A024" },
+    { "parent": "Q023", "child": "S024" },
+
+    { "parent": "T004", "child": "Q004" },
+
+    { "parent": "A005", "child": "Q024" },
+    { "parent": "Q024", "child": "A025" },
+    { "parent": "Q024", "child": "S025" },
+
+    { "parent": "A005", "child": "Q025" },
+    { "parent": "Q025", "child": "A026" },
+    { "parent": "Q025", "child": "S026" },
+
+    { "parent": "T005", "child": "Q005" },
+    { "parent": "Q005", "child": "A006" },
+    { "parent": "Q005", "child": "S003" },
+
+    { "parent": "T006", "child": "Q006" },
+    { "parent": "Q006", "child": "A007" },
+    { "parent": "Q006", "child": "S002" },
+
+    { "parent": "T007", "child": "Q007" },
+    { "parent": "Q007", "child": "A008" },
+
+    { "parent": "T008", "child": "Q008" },
+
+    { "parent": "T009", "child": "Q008" },
+    { "parent": "Q008", "child": "A009" },
+    { "parent": "Q008", "child": "S002" },
+
+    { "parent": "T010", "child": "Q009" },
+    { "parent": "Q009", "child": "A010" },
+    { "parent": "Q009", "child": "S002" },
+
+    { "parent": "T011", "child": "Q010" },
+    { "parent": "Q010", "child": "A011" },
+
+    { "parent": "T012", "child": "Q011" },
+    { "parent": "Q011", "child": "A012" },
+
+    { "parent": "T013", "child": "Q012" },
+    { "parent": "Q012", "child": "A013" },
+    { "parent": "Q012", "child": "S005" },
+
+    { "parent": "T014", "child": "Q013" },
+    { "parent": "Q013", "child": "A014" },
+    { "parent": "Q013", "child": "S004" },
+
+    { "parent": "T015", "child": "Q014" },
+    { "parent": "Q014", "child": "A015" },
+    { "parent": "Q014", "child": "S003" },
+
+    { "parent": "T016", "child": "Q015" },
+    { "parent": "Q015", "child": "A016" },
+    { "parent": "Q015", "child": "S003" },
+
+    { "parent": "T017", "child": "Q016" },
+    { "parent": "Q016", "child": "A017" },
+    { "parent": "Q016", "child": "S002" },
+
+    { "parent": "T018", "child": "Q017" },
+    { "parent": "Q017", "child": "A018" },
+    { "parent": "Q017", "child": "S003" },
+
+    { "parent": "T019", "child": "Q018" },
+    { "parent": "Q018", "child": "A019" },
+
+    { "parent": "T020", "child": "Q019" },
+    { "parent": "Q019", "child": "A020" },
+    { "parent": "Q019", "child": "S006" }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "S001",
+    "title": "Release parking brake",
+    "content": "If the indicator turns on while driving, make sure the parking brake is fully released. Driving with the parking brake applied may cause damage to the braking system.",
+    "category": "indicator"
+  },
+  {
+    "id": "S002",
+    "title": "Check brake fluid",
+    "content": "Stop the vehicle in a safe place and check the brake fluid level. If the level is low, do not continue driving and seek professional inspection.",
+    "category": "indicator"
+  },
+  {
+    "id": "S003",
+    "title": "Stop immediately for brake issue",
+    "content": "If the brake system indicator remains on or appears together with other warnings, stop immediately in a safe location and contact a dealer. Increased pedal effort may be required.",
+    "category": "indicator"
+  },
+  {
+    "id": "S004",
+    "title": "Inspect braking-related systems",
+    "content": "If the amber brake indicator turns on, the vehicle should be inspected by a dealer even if braking appears normal.",
+    "category": "indicator"
+  },
+  {
+    "id": "S005",
+    "title": "Use brake hold properly",
+    "content": "Ensure the brake hold system is used as intended. If the indicator behaves abnormally, have the system inspected.",
+    "category": "indicator"
+  },
+  {
+    "id": "S006",
+    "title": "Check engine system",
+    "content": "If the malfunction indicator lamp turns on or flashes, reduce speed and avoid heavy acceleration. Have the vehicle inspected as soon as possible.",
+    "category": "indicator"
+  },
+  {
+    "id": "S007",
+    "title": "Stop for battery system issue",
+    "content": "If the battery charging indicator turns on, stop the vehicle in a safe place immediately. Continued driving may result in battery discharge. Contact a dealer.",
+    "category": "indicator"
+  },
+  {
+    "id": "S008",
+    "title": "Verify gear selection",
+    "content": "Ensure the correct gear is selected before driving. If the indicator does not match the expected gear, have the transmission system checked.",
+    "category": "indicator"
+  },
+  {
+    "id": "S009",
+    "title": "Do not drive with transmission warning",
+    "content": "If the transmission indicator flashes or a warning message appears, stop driving immediately and contact a dealer for inspection.",
+    "category": "indicator"
+  },
+  {
+    "id": "S010",
+    "title": "Stop for power system failure",
+    "content": "If the power system indicator turns on with a warning message, stop the vehicle immediately in a safe place and contact a dealer.",
+    "category": "indicator"
+  },
+  {
+    "id": "S011",
+    "title": "Confirm vehicle readiness",
+    "content": "Only drive the vehicle when the READY indicator is on. If it does not appear, check the system or restart the vehicle.",
+    "category": "indicator"
+  },
+  {
+    "id": "S012",
+    "title": "Monitor EV mode operation",
+    "content": "No action is required when the EV indicator is on, as it indicates normal electric operation. Monitor for abnormal behavior.",
+    "category": "indicator"
+  },
+  {
+    "id": "S013",
+    "title": "Fasten seatbelt",
+    "content": "Ensure all occupants fasten their seatbelts. The warning will stop once the seatbelt is properly secured.",
+    "category": "indicator"
+  },
+  {
+    "id": "S014",
+    "title": "Refuel vehicle",
+    "content": "Refuel the vehicle as soon as possible when the low fuel indicator turns on to avoid running out of fuel.",
+    "category": "indicator"
+  },
+  {
+    "id": "S015",
+    "title": "Inspect ABS system",
+    "content": "If the ABS indicator stays on, have the system inspected. Normal braking will still function, but without anti-lock capability.",
+    "category": "indicator"
+  },
+  {
+    "id": "S016",
+    "title": "Inspect SRS system",
+    "content": "If the SRS indicator turns on, have the system inspected immediately. Airbags or seatbelt tensioners may not function properly.",
+    "category": "indicator"
+  },
+  {
+    "id": "S017",
+    "title": "Check steering system",
+    "content": "If the EPS indicator turns on, steering effort may increase. Stop safely and have the system inspected by a dealer.",
+    "category": "indicator"
+  },
+  {
+    "id": "S018",
+    "title": "Check VSA system",
+    "content": "If the VSA indicator stays on, the system may not function correctly. Drive cautiously and have the system inspected.",
+    "category": "indicator"
+  },
+  {
+    "id": "S019",
+    "title": "Enable VSA if needed",
+    "content": "If the VSA OFF indicator is on, the system has been disabled. Re-enable it if normal driving conditions require stability assistance.",
+    "category": "indicator"
+  },
+  {
+    "id": "S020",
+    "title": "Check tire pressure",
+    "content": "Check and adjust tire pressure to the recommended level. After adjustment, reset or recalibrate the TPMS system if required.",
+    "category": "indicator"
+  },
+  {
+    "id": "S021",
+    "title": "Action when indicator turns on while driving",
+    "content": "Make sure the parking brake is fully released. Stop the vehicle in a safe place and check the brake fluid level.",
+    "category": "indicator"
+  },
+  {
+    "id": "S022",
+    "title": "Action when red and amber brake indicators turn on together",
+    "content": "Stop immediately in a safe place and contact a dealer for repair. The brake pedal may become harder to press, so press the pedal more firmly than usual.",
+    "category": "indicator"
+  },
+  {
+    "id": "S023",
+    "title": "Action when red brake and ABS indicators turn on together",
+    "content": "Have the vehicle inspected by a dealer. Braking may still be available, but the vehicle should be checked as soon as possible.",
+    "category": "indicator"
+  },
+  {
+    "id": "S024",
+    "title": "Action when red brake indicator flashes with amber brake indicator",
+    "content": "There may be a problem with the electric parking brake system and the parking brake may not be applied. Avoid using the parking brake and have the vehicle inspected by a dealer immediately.",
+    "category": "indicator"
+  },
+  {
+    "id": "S025",
+    "title": "Use Auto Brake Hold correctly",
+    "content": "To activate the system, fasten the driver's seat belt, start the vehicle, and press the Auto Brake Hold button. Press the brake pedal to stop the vehicle completely while the transmission is not in P or R. Release the brake pedal after the Auto Brake Hold indicator comes on.",
+    "category": "indicator"
+  },
+  {
+    "id": "S026",
+    "title": "Prevent unintended movement with Auto Brake Hold",
+    "content": "Do not rely on Auto Brake Hold to keep the vehicle stopped on steep slopes or slippery roads. Do not leave the vehicle unattended while the system is holding the brakes. Always place the transmission in P and apply the parking brake before leaving the vehicle.",
+    "category": "indicator"
+  }
+]

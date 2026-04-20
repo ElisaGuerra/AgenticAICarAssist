@@ -1,0 +1,127 @@
+[
+    { 
+        "id": "Q001", 
+        "title": "When does the Parking Brake Indicator turn on?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q002", 
+        "title": "What should you do if the brake indicator turns on while driving?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q003", 
+        "title": "What does the Amber Brake Indicator mean?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q004", 
+        "title": "What does the Brake Hold indicator mean?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q005", 
+        "title": "What does the Malfunction Indicator Lamp mean?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q006", 
+        "title": "What does the 12V Battery Indicator mean?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q007", 
+        "title": "What does the Gear Position Indicator show?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q008", 
+        "title": "What does the Transmission Indicator mean?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q009", 
+        "title": "What does the POWER SYSTEM indicator mean?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q010", 
+        "title": "What does the READY indicator mean?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q011", 
+        "title": "What does the EV indicator mean?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q012", 
+        "title": "What happens if the seatbelt is not fastened?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q013", 
+        "title": "What does the low fuel indicator mean?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q014", 
+        "title": "What does the ABS indicator mean?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q015", 
+        "title": "What does the SRS indicator mean?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q016", 
+        "title": "What does the EPS indicator mean?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q017", 
+        "title": "What does the VSA indicator mean?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q018", 
+        "title": "What does the VSA OFF indicator mean?", 
+        "category": "indicator" 
+    },
+    { 
+        "id": "Q019", 
+        "title": "What does the TPMS indicator mean?", 
+        "category": "indicator" 
+    },
+    {
+        "id": "Q020",
+        "title": "What should you do when the brake system indicator turns on while driving?",
+        "category": "indicator"
+    },
+    {
+        "id": "Q021",
+        "title": "What should you do if the red brake system indicator turns on together with the amber brake system indicator?",
+        "category": "indicator"
+    },
+    {
+        "id": "Q022",
+        "title": "What should you do if the red brake system indicator turns on together with the ABS indicator?",
+        "category": "indicator"
+    },
+    {
+        "id": "Q023",
+        "title": "What does it mean if the red brake system indicator flashes together with the amber brake system indicator?",
+        "category": "indicator"
+    },
+    {
+        "id": "Q024",
+        "title": "How does the Auto Brake Hold system work?",
+        "category": "indicator"
+    },
+    {
+        "id": "Q025",
+        "title": "When is the Auto Brake Hold system canceled automatically?",
+        "category": "indicator"
+    }
+]

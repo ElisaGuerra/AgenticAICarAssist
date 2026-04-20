@@ -1,0 +1,46 @@
+neo4j:
+  url: neo4j+s://689f4f6a.databases.neo4j.io
+  user: neo4j
+  password: '9yiOFWCQoK5K6WyZZORpcmZhMpxUQmUkan_NHsT1x8w'
+  database: neo4j
+
+queries:
+  load:
+    nodes:
+      Topic: |
+        UNWIND $rows AS row
+        MERGE (t:Topic {id: row.id})
+        SET t.title = row.title, t.images = row.images, t.category = row.category
+      Question: |
+        UNWIND $rows AS row
+        MERGE (q:Question {id: row.id})
+        SET q.title = row.title, q.category = row.category
+      Answer: |
+        UNWIND $rows AS row
+        MERGE (a:Answer {id: row.id})
+        SET a.title = row.title, a.content = row.content, a.category = row.category
+      Solution: |
+        UNWIND $rows AS row
+        MERGE (s:Solution {id: row.id})
+        SET s.title = row.title, s.content = row.content, s.category = row.category
+    relationships:
+      HAS_QUESTION: |
+        UNWIND $rows AS row
+        MATCH (source:Topic {id: row.source})
+        MATCH (target:Question {id: row.target})
+        MERGE (source)-[:HAS_QUESTION]->(target)
+      HAS_ANSWER: |
+        UNWIND $rows AS row
+        MATCH (source:Question {id: row.source})
+        MATCH (target:Answer {id: row.target})
+        MERGE (source)-[:HAS_ANSWER]->(target)
+      HAS_SOLUTION: |
+        UNWIND $rows AS row
+        MATCH (source:Question {id: row.source})
+        MATCH (target:Solution {id: row.target})
+        MERGE (source)-[:HAS_SOLUTION]->(target)
+      HAS_FOLLOW_QUESTION: |
+        UNWIND $rows AS row
+        MATCH (source:Answer {id: row.source})
+        MATCH (target:Question {id: row.target})
+        MERGE (source)-[:HAS_FOLLOW_QUESTION]->(target)
