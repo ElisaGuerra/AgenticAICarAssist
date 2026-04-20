@@ -3,156 +3,182 @@
     "id": "A001",
     "title": "Parking brake indicator behavior",
     "content": "The indicator turns on when the parking brake is applied and turns off when it is released. An audible warning sounds if the vehicle is driven without fully releasing the parking brake. The indicator turns on for about 30 seconds when the electric parking brake is applied while the power mode is in ACCESSORY or OFF, and then turns off. It also remains on for about 30 seconds when the power mode is switched to OFF while the electric parking brake is applied, and then turns off.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_01.svg",
     "category": "indicator"
   },
   {
     "id": "A002",
     "title": "Brake fluid low condition",
     "content": "The indicator turns on when the brake fluid level is low. This may affect braking performance and should be checked immediately.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_01.svg",
     "category": "indicator"
   },
   {
     "id": "A003",
     "title": "Brake system malfunction",
     "content": "The indicator turns on if the brake system has a problem. It may turn on together with the amber brake indicator or ABS indicator depending on the issue. The brake pedal may become harder to press.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_01.svg",
     "category": "indicator"
   },
   {
     "id": "A004",
     "title": "Amber brake system indicator behavior",
     "content": "The amber indicator turns on if a system related to braking, other than the conventional brake system, has a problem. The vehicle can still brake normally but should be inspected.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_02.svg",
     "category": "indicator"
   },
   {
     "id": "A005",
     "title": "Brake Hold system active",
     "content": "The indicator turns on when the brake hold system is activated. It maintains braking force after the driver releases the brake pedal.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_03.svg",
     "category": "indicator"
   },
   {
     "id": "A006",
     "title": "Malfunction indicator lamp behavior",
     "content": "The indicator turns on if the engine or emission control system has a problem. It may flash if a misfire is detected in the engine cylinders.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_04.svg",
     "category": "indicator"
   },
   {
     "id": "A007",
     "title": "12V battery charging system issue",
     "content": "The indicator turns on when there is a problem with the 12-volt battery charging system. This may lead to battery discharge.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_05.svg",
     "category": "indicator"
   },
   {
     "id": "A008",
     "title": "Gear position indicator",
     "content": "The indicator displays the currently selected gear, allowing the driver to confirm transmission position.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_06.svg",
     "category": "indicator"
   },
   {
     "id": "A009",
     "title": "Transmission system warning",
     "content": "The indicator flashes if there is a problem with the transmission. A warning message may appear instructing not to drive.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_07.svg",
     "category": "indicator"
   },
   {
     "id": "A010",
     "title": "Power system warning",
     "content": "The indicator turns on if there is a problem with the electric or hybrid power system. A warning message may advise stopping the vehicle immediately.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_08.svg",
     "category": "indicator"
   },
   {
     "id": "A011",
     "title": "Vehicle ready status",
     "content": "The READY indicator turns on when the vehicle is ready to be driven.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_09.svg",
     "category": "indicator"
   },
   {
     "id": "A012",
     "title": "Electric driving mode",
     "content": "The EV indicator turns on when the vehicle is operating using only the electric motor without the combustion engine.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_10.svg",
     "category": "indicator"
   },
   {
     "id": "A013",
     "title": "Seatbelt warning",
     "content": "The indicator flashes and an audible warning sounds when the seatbelt is not fastened. It may continue flashing during driving until the belt is secured.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_11.svg",
     "category": "indicator"
   },
   {
     "id": "A014",
     "title": "Low fuel condition",
     "content": "The indicator turns on when the fuel level is low, typically when approximately a small reserve remains.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_12.svg",
     "category": "indicator"
   },
   {
     "id": "A015",
     "title": "ABS system issue",
     "content": "The indicator turns on when the anti-lock braking system has a problem. Normal braking is still available but without ABS functionality.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_13.svg",
     "category": "indicator"
   },
   {
     "id": "A016",
     "title": "SRS system issue",
     "content": "The indicator turns on if there is a problem in the supplemental restraint system, including airbags or seatbelt tensioners.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_14.svg",
     "category": "indicator"
   },
   {
     "id": "A017",
     "title": "EPS system issue",
     "content": "The indicator turns on when there is a problem with the electric power steering system. Steering effort may increase.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_15.svg",
     "category": "indicator"
   },
   {
     "id": "A018",
     "title": "VSA system behavior",
     "content": "The indicator flashes when the Vehicle Stability Assist system is actively controlling traction. It stays on when there is a system problem.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_16.svg",
     "category": "indicator"
   },
   {
     "id": "A019",
     "title": "VSA OFF status",
     "content": "The indicator turns on when the VSA system is partially disabled or turned off by the driver.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_17.svg",
     "category": "indicator"
   },
   {
     "id": "A020",
     "title": "TPMS warning",
     "content": "The indicator turns on when tire pressure is low or when the tire pressure monitoring system detects an issue.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_18.svg",
     "category": "indicator"
   },
   {
     "id": "A021",
     "title": "Indicator turns on during driving",
     "content": "The indicator may turn on during driving if the parking brake is not fully released or if there is a potential issue with the brake system.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_19.svg",
     "category": "indicator"
   },
   {
     "id": "A022",
     "title": "Red and amber brake indicators on together",
     "content": "If the red brake system indicator turns on together with the amber brake system indicator, there may be a serious brake system problem.",
+    "images": "https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Indicator_20.svg",
     "category": "indicator"
   },
   {
     "id": "A023",
     "title": "Red brake and ABS indicators on together",
     "content": "If the red brake system indicator turns on together with the ABS indicator, the vehicle should be inspected by a dealer.",
+    "images": "",
     "category": "indicator"
   },
   {
     "id": "A024",
     "title": "Red brake indicator flashes with amber brake indicator",
     "content": "If the red brake system indicator flashes while the amber brake system indicator is on, there may be a problem with the electric parking brake system.",
+    "images": "",
     "category": "indicator"
   },
   {
     "id": "A025",
     "title": "Auto Brake Hold operation",
     "content": "The Auto Brake Hold system keeps the brake applied after the brake pedal is released. It can be used temporarily, such as at traffic lights or in stop-and-go traffic. The indicator turns on when the system is activated, and the system can keep the brakes applied for up to 10 minutes.",
+    "images": "",
     "category": "indicator"
   },
   {
     "id": "A026",
     "title": "Auto Brake Hold automatic cancellation conditions",
     "content": "The Auto Brake Hold system is canceled automatically when the accelerator pedal is pressed with the transmission in a drive position and the vehicle starts to move. The system may also be canceled automatically and the parking brake may be applied if the brakes are held for 10 minutes, the driver's seat belt is unfastened, the power system is turned off, or there is a problem with the Auto Brake Hold system.",
+    "images": "",
     "category": "indicator"
   }
 ]

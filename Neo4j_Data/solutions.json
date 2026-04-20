@@ -8,7 +8,7 @@
   {
     "id": "S002",
     "title": "Check brake fluid",
-    "content": "Stop the vehicle in a safe place and check the brake fluid level. If the level is low, do not continue driving and seek professional inspection.",
+    "content": "Stop the vehicle in a safe place and check the brake fluid level. If the level is low, do not continue driving and seek professional inspection. Check the video: https://raw.githubusercontent.com/ElisaGuerra/AgenticAICarAssist/main/src/Brake_Fluid.mp4",
     "category": "indicator"
   },
   {
